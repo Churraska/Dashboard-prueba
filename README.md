@@ -1,9 +1,11 @@
-
-title: "Informe caracterización 2023"
+---
+title: "SOC4001 Procesamiento avanzado de bases de datos en R"
+author: "Trabajo final"
 output:
   html_document:
     df_print: paged
- date: "2023-01-04"
+  pdf_document: default
+---
 
 
 # Churraskas en R
